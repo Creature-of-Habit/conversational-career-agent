@@ -1,4 +1,4 @@
-from file_manager import linkedin, summary
+from .file_manager import linkedin, summary
 
 
 name ='Charles'
